@@ -1,1 +1,2 @@
 New feature for foo branch
+new line
